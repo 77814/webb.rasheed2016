@@ -24,7 +24,7 @@
                 Rasheed mohamed, we believe in innovation,integrity and collaboration.through this website, we hope to engage ,to educate,and create community
                 of developers.join with us as we embark on this exciting journey together.
             </p></sectionid>
-       <section id="about">
+               <section id="about">
                 <h2>about us</h2>
                 <p>this place is beette for you to increase technological innovation,personal growth and creative designs.
                     whether you are looking for insightfularticles,innovative solutions or simply a place to to explore fresh ideas,we are here to provide computing assistance
